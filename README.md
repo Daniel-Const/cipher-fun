@@ -1,5 +1,5 @@
 # cipher-fun
-A few cipher encryption algorithms I have implemented as part of a University security course project including a Caesar Cipher crack
+A few cipher encryption algorithms I have implemented in C as part of a University security course project including a Caesar Cipher crack
 # Overview
 I took a course at the University of New South Wales in Sydney - COMP6441 Security Engineering and Cyber Security. As part of this course was a 'Something Awesome' project which required us to pick our own assignment, and challenge ourselves to complete a project throughout the semester.
 My project was to implement a few cipher algorithms from history.
