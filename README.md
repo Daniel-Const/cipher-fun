@@ -14,6 +14,6 @@ Baconian cipher
 I also wrote a program that is able to break the Caesar cipher using the cumulative chi-squared test statistic.
 # Usage
 Make sure with the crack.c program to compile with the -lm flag, in order for the power function to work.
-cipher.c ./cipher <filename> <ciphertype> <argument>
-crack.c ./crack <filename> <ciphertype> <argument>
+cipher.c ./cipher filename ciphertype argument(key)
+crack.c ./crack filename ciphertype
 for cipher type, just name the ciphers e.g. "caesar", "subsitution", "railfence" etc...
